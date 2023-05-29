@@ -1,0 +1,14 @@
+{
+  "firstName": "Luiz",
+  "lastName": "Marques",
+  "company": "EBAC",
+  "country": "Brasil",
+  "address": "Av. Paulo Pinto",
+  "addressNumber": "3245",
+  "city": "São Paulo",
+  "state": "São Paulo",
+  "postcode": "01001547",
+  "phone": "55784784785",
+  "email": "luiz_teste@ebac.com",
+  "comments": "Portão de garagem preto"
+}
